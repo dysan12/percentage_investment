@@ -1,0 +1,6 @@
+[submodule "service\\utilities\\"]
+	path = service\\utilities\\
+	url = https://github.com/dysan12/aet_utilities.git
+[submodule "service/utilities"]
+	path = service/utilities
+	url = https://github.com/dysan12/aet_utilities.git
